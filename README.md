@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi my name is Sebastian</h1>
 
 ###
 
-<p align="left">My name is Sebastian and I'm a Fullstack Developer, from Rheda-Wiedenbrück in Northrine-Westfalia.</p>
+<p align="left">
+I'm a prospective **Full Stack Developer** with Experience in **React, Node.js, Express und MongoDB**.  
+After a career in the trades (including a master craftsman's certificate), I specialized in modern web development – ​​with a focus on clean code, practical solutions and continuous learning.</p>
 
 ###
 
